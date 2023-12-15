@@ -70,14 +70,14 @@ Heatmap der boolean Matrix von df.isnull() zur erkennung von ausreißern in nich
 **PassengerId** vollständig  
 **Survied** vollständig  
 **Pclass** vollständig  
-**Name**
-**Sex**
-**Age** unvollständig, float müsste aber int sein  
+**Name** vollständig  
+**Sex** vollständig  
+**Age** unvollständig, enthält viele NaN, float müsste aber int sein  
 **SibSp** vollständig  
 **Parch** vollständig  
-**Ticket**   
+**Ticket** vollständig  
 **Fare** vollständig  
-**Cabin**   
-**Embarked** enthält zwei "außreißer" (Null values) in Zeile 61 und 829
+**Cabin** unvollständig, enthält viele NaN  
+**Embarked** unvollständig, enthält zwei NaN (ausreißer) in Zeile 61 und 829
 
 
