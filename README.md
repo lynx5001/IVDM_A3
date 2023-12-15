@@ -78,6 +78,6 @@ Heatmap der boolean Matrix von df.isnull() zur erkennung von ausreißern in nich
 **Ticket**   
 **Fare** vollständig  
 **Cabin**   
-**Embarked** enthält zwei "außreißer" (Null values) in Zeile 61 und   
+**Embarked** enthält zwei "außreißer" (Null values) in Zeile 61 und 829
 
 
