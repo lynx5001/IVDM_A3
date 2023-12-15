@@ -61,14 +61,14 @@ Fare: Manche haben keine Values bzw. 0 Values (ca.20), Integer und Float Werte, 
 
 ### Carlos notizen ###
 
-Heatmap der numerischen Spalten zur erkennung von ausreißern:
+Heatmap der numerischen Spalten zur erkennung von ausreißern:  
 <img width="397" alt="image" src="https://github.com/lynx5001/IVDM_A3/assets/105308348/fc945123-7951-4521-be1e-fe8fe6f9d955">
 
-Heatmap der boolean Matrix von df.isnull() zur erkennung von ausreißern in nicht numerischen Spalten:
+Heatmap der boolean Matrix von df.isnull() zur erkennung von ausreißern in nicht numerischen Spalten:  
 <img width="378" alt="image" src="https://github.com/lynx5001/IVDM_A3/assets/105308348/8e53036d-857b-4295-9c09-314943317113">
 
-**PassengerId** vollständig
-**Survied** vollständig
+**PassengerId** vollständig  
+**Survied** vollständig  
 **Pclass** vollständig
 **Name**
 **Sex**
@@ -78,6 +78,6 @@ Heatmap der boolean Matrix von df.isnull() zur erkennung von ausreißern in nich
 **Ticket** 
 **Fare** vollständig
 **Cabin** 
-**Embarked** enthält zwei "außreißer" (Null values)
+**Embarked** enthält zwei "außreißer" (Null values) in Zeile 61 und 
 
 
