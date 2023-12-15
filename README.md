@@ -67,13 +67,16 @@ Heatmap der numerischen Spalten zur erkennung von ausreißern:
 Heatmap der boolean Matrix von df.isnull() zur erkennung von ausreißern in nicht numerischen Spalten:  
 <img width="378" alt="image" src="https://github.com/lynx5001/IVDM_A3/assets/105308348/8e53036d-857b-4295-9c09-314943317113">
 
+Heatmap der Spalten 'Survived', 'Pclass', 'SibSp', 'Parch' mit kleinen Integern zur erkennung von ausreißern:
+<img width="377" alt="image" src="https://github.com/lynx5001/IVDM_A3/assets/105308348/18fdc4de-52b3-4bd9-96ed-8813bb4f8d81">
+
 **PassengerId** vollständig  
 **Survied** vollständig  
 **Pclass** vollständig  
 **Name** vollständig  
 **Sex** vollständig  
 **Age** unvollständig, enthält viele NaN, float müsste aber int sein  
-**SibSp** vollständig  
+**SibSp** vollständig, enthält min. 6 ausreißer
 **Parch** vollständig  
 **Ticket** vollständig  
 **Fare** vollständig  
