@@ -58,3 +58,10 @@ Cabin: Manche haben mehrere Bezeichnungen Bsp.: ID 873 , ganz viele haben gar ke
 
 Fare: Manche haben keine Values bzw. 0 Values (ca.20), Integer und Float Werte, welche Einheit , stimmen die Preise kommt mir billig vor
 
+
+### Carlos notizen ###
+
+Heatmap der numerischen Spalten zur erkennung von ausreißern:
+<img width="397" alt="image" src="https://github.com/lynx5001/IVDM_A3/assets/105308348/fc945123-7951-4521-be1e-fe8fe6f9d955">
+
+
